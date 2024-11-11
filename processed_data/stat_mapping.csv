@@ -1,0 +1,288 @@
+Name,code
+STAT 213: Statistical Inference II,STAT 213
+STAT 213: Statistical Inference 2,STAT 213
+STAT 109: Intro to Statistical Modelling,STAT 109
+EDU S043/STAT 151: Multilevel and Longitudinal Models,EDU S043/STAT 151
+BIOSTAT 282/BST 282/STAT 115/STAT 215: Introduction to Computational Biology and Bioinformatics,BIOSTAT 282/BST 282/STAT 115/STAT 215
+STAT 111: Introduction to Statistical Inference,STAT 111
+STAT 100: Introduction to Statistics and Data Science,STAT 100
+STAT 139: Introduction to Linear Models,STAT 139
+STAT 100: Introduction to Quantitative Methods for the Social Sciences and Humanities,STAT 100
+STAT 139: Statistical Sleuthing Through Linear Models,STAT 139
+STAT 139: Linear Models,STAT 139
+STAT 131: Time Series & Prediction,STAT 131
+STAT 230: Multivariate Statistical Analysis,STAT 230
+STAT 160: Introduction to Survey Sampling and Estimation,STAT 160
+STAT 186: Statistical Methods for Evaluating Causal Effects,STAT 186
+ECON 2142/STAT 242: Time Series,ECON 2142/STAT 242
+STAT 160/STAT 260: Design and Analysis of Sample Surveys,STAT 160/STAT 260
+STAT 120: Introduction to Bayesian Inference and Applications,STAT 120
+STAT 123: Applied Quantitative Finance,STAT 123
+APCOMP 209A/COMPSCI 1090A/COMPSCI 109A/STAT 109A/STAT 121A: Data Science 1: Introduction to Data Science,APCOMP 209A/COMPSCI 1090A/COMPSCI 109A/STAT 109A/STAT 121A
+STAT 108: Introduction to Statistical Computing with R,STAT 108
+STAT 114: Introduction to Bioinformatics and Statistical Genetics,STAT 114
+STAT 140: Design of Experiments,STAT 140
+STAT 161: Introduction to Nonparametric Methods,STAT 161
+STAT 102: Introduction to Statistics for Life Sciences,STAT 102
+STAT 104: Introduction to Quantitative Methods for Economics,STAT 104
+STAT 212: Probability 2,STAT 212
+STAT 220: Bayesian Data Analysis,STAT 220
+STAT 212: Probability II,STAT 212
+STAT 211: Statistical Inference I,STAT 211
+COMPSCI 184/COMPSCI 1840/STAT 184: Introduction to Reinforcement Learning,COMPSCI 184/COMPSCI 1840/STAT 184
+STAT 111: Introduction to Theoretical Statistics,STAT 111
+STAT 195: Introduction to Supervised Learning,STAT 195
+STAT 303HFA: The Art of Communicating and Teaching Statistics,STAT 303HFA
+STAT 236: Statistical Learning,STAT 236
+STAT 216: Topics in High-Dimensional Probability Theory,STAT 216
+STAT 123: Quantitative Finance,STAT 123
+STAT 303HFA: The Art and Practice of Teaching Statistics,STAT 303HFA
+STAT 303HFB: The Art and Practice of Teaching Statistics,STAT 303HFB
+STAT 388R: Design and Analysis of Experiments at Scale,STAT 388R
+STAT 221: Statistical Computing and Learning,STAT 221
+STAT 291: Random High-Dimensional Optimization: Landscapes and Algorithmic Barriers,STAT 291
+STAT 293/STAT 393/STAT 397: Design of Experimental and Non-experimental Studies,STAT 293/STAT 393/STAT 397
+STAT 117: Data Analysis in Modern Biostatistics,STAT 117
+STAT 171: Introduction to Stochastic Processes,STAT 171
+STAT 236: Modern Statistical Learning,STAT 236
+STAT 141: Introduction to Spatial Statistics,STAT 141
+STAT 217: Topics in high-dimensional statistics: methods from statistical physics,STAT 217
+"STAT 221: Computational Tools for Statistical Learning: Approximation, Optimization, and Monte Carlo",STAT 221
+STAT 248: Couplings and Monte Carlo,STAT 248
+STAT 141: Spatial Statistics,STAT 141
+STAT 185: Introduction to Dimension Reduction,STAT 185
+"STAT 188: Variations, Information and Privacy",STAT 188
+STAT 305R: Statistical Consulting,STAT 305R
+STAT 195: Statistical Machine Learning,STAT 195
+STAT 99R: Tutorial - Senior Year,STAT 99R
+STAT 185: Introduction to Unsupervised Learning,STAT 185
+APCOMP 209B/COMPSCI 109B/STAT 109B/STAT 121B: Data Science 2: Advanced Topics in Data Science,APCOMP 209B/COMPSCI 109B/STAT 109B/STAT 121B
+STAT 131: Introduction to Time Series & Prediction,STAT 131
+STAT 149: Generalized Linear Models,STAT 149
+STAT 317: Seminar on Bayesian nonparametrics,STAT 317
+STAT 221: Monte Carlo Methods & other computational tools for statistical learning,STAT 221
+STAT 107: Introduction to Business and Financial Statistics,STAT 107
+COMPSCI 333/STAT 333: Individual Risk,COMPSCI 333/STAT 333
+STAT 288: Deep Statistics: AI and Earth Observations for Sustainable Development,STAT 288
+STAT 98: Tutorial - Junior Year,STAT 98
+STAT 315: Modern high-dimensional inference,STAT 315
+"BST 208: Stats for Med Research, Advanced",BST 208
+STAT 149: Introduction to Generalized Linear Models,STAT 149
+GOV 2002/STAT 186: Causal Inference,GOV 2002/STAT 186
+STAT 186: Introduction to Causal Inference,STAT 186
+STAT 317: Computational Optimal Transport,STAT 317
+STAT 300HFRB: Research in Statistics,STAT 300HFRB
+STAT 364: Scalable Statistical Inference for Big Data with Applications,STAT 364
+"STAT 236: Sparse Inference, and Network and Text Analysis",STAT 236
+STAT 300HFRA: Research in Statistics,STAT 300HFRA
+STAT 170: Quantitative Analysis of Capital Markets,STAT 170
+COMPSCI 10/STAT 10: Elements of Data Science,COMPSCI 10/STAT 10
+STAT 286: Causal Inference & Program Evaluation,STAT 286
+STAT 234: Sequential Decision Making,STAT 234
+STAT 364: Scalable Statistical and Machine Learning Methods for Big Data with Applications,STAT 364
+STAT 143: Sports Analytics,STAT 143
+STAT 316: Big data statistics in genomic and genetic research,STAT 316
+GOV 2003/STAT 286: Causal Inference with Applications,GOV 2003/STAT 286
+GENETIC 349: Current Tools for Gene Analysis,GENETIC 349
+SYSBIO 220: Analysis foundations for quantitative biologists,SYSBIO 220
+IMMUN 306QC: Systems Immunology,IMMUN 306QC
+GOV 1000: Quantitative Methods for Political Science I,GOV 1000
+GOV 2000/GOV 2000E: Introduction to Quantitative Methods I,GOV 2000/GOV 2000E
+"PHYSCI 12A: Mechanics and Statistical Physics from an Analytic, Numerical and Experimental Perspective",PHYSCI 12A
+ECON 2150: The Econometrics of Machine Learning (and other 'Big Data' Techniques),ECON 2150
+EPI 271: Propensity Score Analysis: Theoretical & Practical Considerations,EPI 271
+GOV 2303: Race and Federalism,GOV 2303
+ECON 1036: The Psychology and Economics of Beliefs,ECON 1036
+EPI 215: Advanced Topics in Case-Control and Cohort Studies,EPI 215
+MLD 630/MLD 630M: Government Turnarounds,MLD 630/MLD 630M
+SYSBIO 220/SYSBIO 320/SYSBIO 320QC: Quantitative Measurement and Analysis,SYSBIO 220/SYSBIO 320/SYSBIO 320QC
+APPHY 284/PHYSICS 262: Statistical Mechanics,APPHY 284/PHYSICS 262
+OEB 201: Introduction to experimental design and model building for ecologists and evolutionary biologists,OEB 201
+GOV 2003: Topics in Quantitative Methods,GOV 2003
+BST 254: Special Topics in Biostatistics (2.5 cr),BST 254
+BIOSTAT 254: Topics in Biostatistics,BIOSTAT 254
+"MLD 412/MLD 412M: Greater Boston Applied Field Lab: Advanced Budgeting, Financial Management and Operations",MLD 412/MLD 412M
+ECON 980P: International Trade Policy,ECON 980P
+"DPI 376/DPI 376M/EDU H213: Queer Nation: LGBTQ+ Protest, Politics, and Policy in the United States",DPI 376/DPI 376M/EDU H213
+BMI 722: Topics in Translational Biomedical Informatics,BMI 722
+GOV 2001: Quantitative Social Science Methods I,GOV 2001
+PHYSICS 181: Statistical Mechanics and Thermodynamics,PHYSICS 181
+ECON 970: Tutorial - Sophomore Year,ECON 970
+"MATH 18B/19B: Linear Algebra, Probability, and Statistics",MATH 18B/19B
+COMPSCI 282R: Topics in Machine Learning,COMPSCI 282R
+SCRB 120: Biotech Ethics,SCRB 120
+DPI 851M: Data and Information Visualization,DPI 851M
+BST 113: Introduction to Data Management and Programming in SAS,BST 113
+HPM 543: Quantitative Methods in Program Evaluation,HPM 543
+GHP 512: Assessing Impact of Population Health Interventions Through Analysis of Risk Factors,GHP 512
+ID 236: Social Epidemiology,ID 236
+ECON 1126: Quantitative Methods in Economics,ECON 1126
+MUSIC 178R: Applied Music Activism,MUSIC 178R
+API 205: Politics and Policies: What Can Data Tell Us?,API 205
+ID 501: Engaging with the Press: A Practical Look at Effective Public Health Communications,ID 501
+HISTSCI 249: The Opioid Epidemic in Historical Perspective,HISTSCI 249
+"LING 83: Language, Structure, and Cognition",LING 83
+BIOPHYS 206: Concepts in Cancer Genome Analysis,BIOPHYS 206
+"SCRB 210: COVID-19: Science, Medicine, and Therapeutics",SCRB 210
+BIOSTAT 241/BST 241: Statistical Inference II,BIOSTAT 241/BST 241
+EPI 501: Dynamics of Infectious Diseases,EPI 501
+APCOMP 275/APPHY 275: Computational Design of Materials,APCOMP 275/APPHY 275
+SBS 236: Social Epidemiology,SBS 236
+"MATH 19B: Linear Algebra, Probability, and Statistics for the Life Sciences",MATH 19B
+SYSBIO 220QC: Analysis foundations for quantitative biologists (part 1),SYSBIO 220QC
+MLD 110: Strategic Management for Public Purposes,MLD 110
+EPI 286: Database Analytics in Pharmacoepidemiology,EPI 286
+COMPSCI 282BR: Adaptive Methods in Machine Learning,COMPSCI 282BR
+ENG-SCI 280: System Engineering,ENG-SCI 280
+BIOSTAT 281/BST 281: Genomic Data Manipulation,BIOSTAT 281/BST 281
+DPI 678M: Product Management and Society: Building Technology in the Public Interest,DPI 678M
+SCI 6275: Computer Vision (at SEAS),SCI 6275
+COMPSCI 283: Computer Vision,COMPSCI 283
+BST 260: Introduction to Data Science,BST 260
+PSY 971: Contemporary Issues in Psychology: Intensive Cross-level Analyses,PSY 971
+ECON 1088: Finance for Inclusive Growth,ECON 1088
+"APMTH 207: Advanced Scientific Computing: Stochastic Methods for Data Analysis, Inference and Optimization",APMTH 207
+ID 221: Nutritional Epidemiology II,ID 221
+OEB 137: Experimental Design and Statistics for Ecology,OEB 137
+COMPSCI 183: Foundations of Machine Learning,COMPSCI 183
+GOV 2001: Advanced Quantitative Research Methodology,GOV 2001
+MLD 636: Managing Transformations in Healthcare,MLD 636
+GOV 1002: Advanced Quantitative Political Methodology,GOV 1002
+COMPSCI 181: Machine Learning,COMPSCI 181
+MICROBI 360QC: The Human Microbiome: Comprehensive experimental design and methodologies,MICROBI 360QC
+PSY 2030: Bayesian Data Analysis,PSY 2030
+PSY 2035: Advanced Statistical Modeling,PSY 2035
+API 205: Politics and Policies: What Is the Impact of Data and AI?,API 205
+API 205: Politics and Policies: The Impact of Data and AI,API 205
+APMTH 221: Advanced Optimization,APMTH 221
+COMPSCI 236R: Topics at the Interface between Computer Science and Economics,COMPSCI 236R
+APMTH 231/ENG-SCI 201: Decision Theory,APMTH 231/ENG-SCI 201
+IGA 145M: Human Security: People-Centered Global Policy,IGA 145M
+COMPSCI 134: Networks,COMPSCI 134
+APCOMP 295: Topics in Applied Computation: Advanced Practical Data Science,APCOMP 295
+EDU A810: International Education Finance,EDU A810
+PSY 1901: Methods of Behavioral Research,PSY 1901
+GOV 1288: China’s Economic Development,GOV 1288
+SCRB 152: Asking Cells Who They Are: Computational Transcriptomics Using RNA-Seq,SCRB 152
+LING 105: Sounds of Language,LING 105
+BETH 713: Bioethics Advocacy,BETH 713
+BIOSTAT 249/BST 249: Bayesian Methodology in Biostatistics,BIOSTAT 249/BST 249
+COMPSCI 182: Artificial Intelligence,COMPSCI 182
+SCIENCE 5: An Introduction to Computation for Contemporary Science,SCIENCE 5
+APMTH 233/ENG-SCI 203: Interplay between Control and Learning,APMTH 233/ENG-SCI 203
+EPI 526: Analysis of Publicly Available Databases for Epidemiologic and Health Services Research,EPI 526
+SUP 578/SUP 578M: U.S. Healthcare Industry and Regulatory Policy,SUP 578/SUP 578M
+COMPSCI 229CR: Topics in Theoretical Computer Science: Spectral Graph Theory in CS,COMPSCI 229CR
+SOCIOL 90Z: Research Lab: Inequality,SOCIOL 90Z
+EPI 219: Assessment Concepts and Methods in Psychiatric Epidemiology,EPI 219
+SOCIOL 90EI: Research Lab: Ethnicity and Immigration,SOCIOL 90EI
+"MBB 980R: Psychopaths and Psychopathy: Psychological, Neuroscientific, Legal, and Policy Issues",MBB 980R
+"ETHRSON 45/GENED 1064/SCRB 187: Brains, Identity, and Moral Agency",ETHRSON 45/GENED 1064/SCRB 187
+"GENED 1170: Confronting COVID-19: Science, History, Policy",GENED 1170
+MLD 601: Operations Management,MLD 601
+EDU A302: Equity in Action in School Systems,EDU A302
+BST 206: Introductory Statistics for Medical Research,BST 206
+DRPH 260: Effective Writing for Policy Leadership,DRPH 260
+COMPSCI 283/COMPSCI 2831: Advanced Computer Vision,COMPSCI 283/COMPSCI 2831
+BST 257: Theory and Methods for Causality II,BST 257
+COMPSCI 226R: Topics in Theory for Society: The Theory of Algorithmic Fairness,COMPSCI 226R
+BIOSTAT 258/BST 258: Causal Inference: Theory and Practice,BIOSTAT 258/BST 258
+DPI 852M: Advanced Data and Information Visualization,DPI 852M
+HEB 1398: Human Genetic Variation,HEB 1398
+ENG-SCI 250: Information Theory,ENG-SCI 250
+MLD 411M: Introduction to Budgeting and Financial Management,MLD 411M
+GHP 506: Measuring Population Health,GHP 506
+BST 256: Theory and Methods for Causality I,BST 256
+COMPSCI 37/ECON 1071: Incentives in the Wild: from Tanking in Sports to Mining Cryptocurrencies,COMPSCI 37/ECON 1071
+ECON 1343: The Economics of Development and Global Health,ECON 1343
+"GHP 213: Global Cardiovascular Disease Prevention - Methods, Study Designs and Case Studies",GHP 213
+DPI 820M: Policy Memo Writing for Decision Makers,DPI 820M
+PSY 1617: Language Development in the First Few Years of Life,PSY 1617
+"GOV 1093/SCRB 60: Ethics, Biotechnology, and the Future of Human Nature",GOV 1093/SCRB 60
+EPI 528: Systematic Review and Meta-Analysis,EPI 528
+EPI 235: Epi Methods in Health Services Research,EPI 235
+DPI 821M: Writing Policy Reports,DPI 821M
+PSY 960: Communicating Psychological Science: A Practical Guide,PSY 960
+SOC-STD 68CT: The Chinese Immigrant Experience in America,SOC-STD 68CT
+MATH 19A: Modeling and Differential Equations for the Life Sciences,MATH 19A
+"IGA 516/SOCIOL 1180/SOCIOL 180: Law, Science, and Society in America",IGA 516/SOCIOL 1180/SOCIOL 180
+GENED 1171: Justice: Ethics in an Age of Pandemic and Racial Reckoning,GENED 1171
+API 119/API 120: Advanced Macroeconomics for the Open Economy II,API 119/API 120
+EPI 945U: Applied Practice and Integrative Learning Experience for Epidemiology,EPI 945U
+EPI 945AU: MPH EPI Practice & ILE,EPI 945AU
+EPI 945S: Practicum & Culminating Experience for the MPH in Epidemiology,EPI 945S
+EPI 945S: Applied Practice and Integrative Learning Experience for Epidemiology,EPI 945S
+IGA 565/IGA 565M: Analytical Methods for Complex Adaptive Systems,IGA 565/IGA 565M
+SBS 245: Social and Behavioral Research Methods,SBS 245
+EDU S040: Introductory and Intermediate Statistics for Educational Research: Applied Linear Regression,EDU S040
+ECON 1042: Sports Economics,ECON 1042
+FRSEMR 24N: Child Health in America,FRSEMR 24N
+ECON 2142: Time Series Analysis,ECON 2142
+EPI 945F: Practicum & Culminating Experience for the MPH in Epidemiology,EPI 945F
+ECON 1745: Corporate Finance,ECON 1745
+SOCIOL 1156: Statistics for Social Sciences,SOCIOL 1156
+API 209: Advanced Quantitative Methods I: Statistics,API 209
+BETH 751: Health and Human Rights,BETH 751
+HIST 12E: Migrant Geographies: Between Asia and the United States in the Twentieth Century,HIST 12E
+EPI 247: Epidemiologic Methods Development - Past and Present,EPI 247
+ECON 1818: Economics of Discontinuous Change,ECON 1818
+API 119/API 120: Advanced Macroeconomics for the Open Economy I,API 119/API 120
+DPI 831M: Op-Ed Writing,DPI 831M
+EDU A318: New Pathways for College and Career Readiness: Increasing Opportunity and Equity Through Education,EDU A318
+SBS 246: Maternal and Child Health: Programs and Policies,SBS 246
+ECON 10A: Principles of Economics,ECON 10A
+EDU S022: Introduction to Statistical Computing and Data Science in Education,EDU S022
+GOV 94Q: US-Latin American Relations: Seminar,GOV 94Q
+PSY 1019: Using Data for Justice,PSY 1019
+GOV 1006/GOV 52: Models,GOV 1006/GOV 52
+"HDS 3093/MLD 375: Creating Justice in Real Time: Vision, Strategies, and Campaigns",HDS 3093/MLD 375
+HISTSCI 149/HISTSCI 1490: The History and Culture of Stigma,HISTSCI 149/HISTSCI 1490
+MPH 100A/MPH 103: Leadership and Communication,MPH 100A/MPH 103
+SBS 225: Engaging with the Press: A Practical Look at Effective Public Health Communications,SBS 225
+EDU A810T: International Education Finance,EDU A810T
+"HISTSCI 140: Public Health on the Border: Race, Politics, and Health in Modern Mexico",HISTSCI 140
+GOV 94GK: The Politics and Ethics of Medical Care,GOV 94GK
+MPH 100D/MPH 105: Public Health Policy and Politics,MPH 100D/MPH 105
+ESPP 78: Environmental Politics,ESPP 78
+"SES 5410: Implementation: Strategy, Management and Leadership: Lessons from the Field (at HKS)",SES 5410
+"GOV 2034: Ethics, Economics, and Law",GOV 2034
+COMPSCI 20: Discrete Mathematics for Computer Science,COMPSCI 20
+"MLD 112: Implementation: Strategy, Management and Leadership: Lessons from the Field",MLD 112
+LPCE 102: StudioLab on Creativity and Entrepreneurship,LPCE 102
+HPM 503: Understanding Public Health Leadership: From Frameworks to Practice,HPM 503
+IGA 411: The Energy-Climate Challenge,IGA 411
+HCM 731.1/HCM 731.2: Competitive Strategy Determination,HCM 731.1/HCM 731.2
+GHP 213: Global Cardiovascular Disease Prevention - what do we know and how do we know it,GHP 213
+HEB 1700: Human Evolutionary Biology in Society,HEB 1700
+EPI 224: Cancer Prevention,EPI 224
+FRSEMR 25N/FYSEMR 25N: Finding Connections: Perspectives on Psychological Development and Mental Illness,FRSEMR 25N/FYSEMR 25N
+"ADV 9132: Ecology, Infrastructure, Power",ADV 9132
+ECON 1152/ECON 50/EDU A218/SUP 135: Using Big Data to Solve Economic and Social Problems,ECON 1152/ECON 50/EDU A218/SUP 135
+PSY 1900: Introduction to Statistics for the Behavioral Sciences,PSY 1900
+TDM 180B: Art for the not yet and the yet to be,TDM 180B
+"GENED 1089/HISTSCI 140: The Border: Race, Politics, and Health in Modern Mexico",GENED 1089/HISTSCI 140
+NUT 232: Designing and Evaluating Behavioral Interventions Targeting Diet and Physical Activity,NUT 232
+BGP 625/GENED 1120: The Political Economy of Globalization,BGP 625/GENED 1120
+GHP 555: Management Practices in Health Care Delivery,GHP 555
+HCM 712: Transitioning to Physician Leadership,HCM 712
+EPI 208: Introduction to Clinical Epidemiology,EPI 208
+GHP 244: Health Sector Reform: A Worldwide Perspective,GHP 244
+DPI 600/DPI 600M: The Politics of the Press,DPI 600/DPI 600M
+EDU S800: Ph.D. in Education Proseminar,EDU S800
+EH 241: Occupational Safety and Injury Prevention,EH 241
+"BGP 625: Globalization: Past, Present and Future Challenges",BGP 625
+SUP 150Y: Seminar: Social and Urban Policy (fall),SUP 150Y
+"ANTHRO 2859: Colonial Encounters, Postcolonial Disorders",ANTHRO 2859
+GHP 557: Fundamentals of Global Health,GHP 557
+HPM 246A: Seminar in Health Policy I,HPM 246A
+MLD 621: Innovation Field Lab: Public Problem Solving in Massachusetts Cities,MLD 621
+HLTHPOL 2000A/HLTHPOL 2000B: Core Course in Health Policy,HLTHPOL 2000A/HLTHPOL 2000B
+SUP 957: Core Course in Health Policy I,SUP 957
+HPM 210: United States Health Policy,HPM 210
+"IGA 615: Protecting a Homeland: Managing the Flow of People, Goods, and Ideas",IGA 615
+DEV 210/PED 210: Public Finance in Theory and Practice,DEV 210/PED 210
+GOV 1005/GOV 50: Data,GOV 1005/GOV 50
+"IGA 451M: Controversies in Climate, Energy, and the Media: Improving Public Communication",IGA 451M
+HPM 235: Managing Health Care Costs,HPM 235
+IGA 412/IGA 412M: The Geopolitics of Energy,IGA 412/IGA 412M
+GHP 272: Foundations of Global Health and Population,GHP 272
